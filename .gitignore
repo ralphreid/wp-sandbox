@@ -1,3 +1,4 @@
 .vagrant
 *.box
 .gitignore
+.DS_Store
